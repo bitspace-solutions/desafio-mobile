@@ -29,4 +29,4 @@ Para este teste, você vai precisar criar uma aplicação com React Native, capa
 -   TypeScript;
 
 ### Entrega do Projeto
-O prazo de entrega do projeto é de **4 dias**. Ao finalizar, você deve criar um repositório público com o código e a documentação para testarmos o projeto. Se você conseguir hospedá-lo em algum host, não esqueça de incluir o link para a Demo.
+O prazo de entrega do projeto é de **3 dias**. Ao finalizar, você deve criar um repositório público com o código e a documentação para testarmos o projeto. Se você conseguir hospedá-lo em algum host, não esqueça de incluir o link para a Demo.
